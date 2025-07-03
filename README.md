@@ -5,7 +5,7 @@ This repository contains a **Power BI interactive dashboard** designed to analyz
 ---
 
 ## 🔍 Overview
-![HR Analytics Dashboard Preview](./images/dashboard.png)
+![HR Analytics Dashboard Preview](Images/dashboard.png)
 
 The dashboard is equipped with a **department-based slicer** at the top, allowing users to filter all visualizations by department (e.g., Human Resources, Sales, R&D). This interactivity helps users isolate and analyze attrition patterns within specific business units.
 
@@ -14,7 +14,7 @@ The dashboard is equipped with a **department-based slicer** at the top, allowin
 ## 📊 Key Visualizations & Use Cases
 
 ### 🎓 Attrition by Education
-![HR Analytics Dashboard Preview](./images/education.png)
+![HR Analytics Dashboard Preview](Images/education.png)
 
 **Insight**: Discover which educational backgrounds are more prone to attrition. This helps tailor learning and development programs for employees with vulnerable profiles.
 
@@ -23,7 +23,7 @@ The dashboard is equipped with a **department-based slicer** at the top, allowin
 ---
 
 ### 👥 Attrition by Age
-![HR Analytics Dashboard Preview](./images/age.png)
+![HR Analytics Dashboard Preview](Images/age.png)
 
 **Insight**: Highlights which age groups are more likely to leave. Younger professionals may reflect early-career dissatisfaction, while older groups might suggest retirement trends or lack of growth.
 
@@ -39,7 +39,7 @@ The dashboard is equipped with a **department-based slicer** at the top, allowin
 ---
 
 ### 📅 Attrition by Year
-![HR Analytics Dashboard Preview](./images/year.png)
+![HR Analytics Dashboard Preview](Images/year.png)
 
 **Insight**: Reveals when employees are most likely to leave in their tenure. A sharp rise in early years can indicate onboarding or expectation misalignment.
 
@@ -48,7 +48,7 @@ The dashboard is equipped with a **department-based slicer** at the top, allowin
 ---
 
 ### 💰 Attrition by Salary
-![HR Analytics Dashboard Preview](./images/salary.png)
+![HR Analytics Dashboard Preview](Images/salary.png)
 
 **Insight**: Uncovers the relationship between salary bands and attrition. Lower salary bands tend to see higher attrition, highlighting compensation concerns.
 
@@ -57,7 +57,7 @@ The dashboard is equipped with a **department-based slicer** at the top, allowin
 ---
 
 ### 🧑‍🤝‍🧑 Attrition by Gender
-![HR Analytics Dashboard Preview](./images/gender.png)
+![HR Analytics Dashboard Preview](Images/gender.png)
 
 **Insight**: Allows gender-based analysis of attrition. Imbalance may indicate cultural or policy-driven issues needing review.
 
@@ -66,7 +66,7 @@ The dashboard is equipped with a **department-based slicer** at the top, allowin
 ---
 
 ### 🧭 Attrition by Job Role
-![HR Analytics Dashboard Preview](./images/job_role.png)
+![HR Analytics Dashboard Preview](Images/job_role.png)
 **Insight**: Shows which job functions experience the highest turnover. Helps identify roles that require immediate HR attention.
 
 **Use Case**: Align retention programs, training, and recognition strategies with roles having higher turnover.
@@ -74,7 +74,7 @@ The dashboard is equipped with a **department-based slicer** at the top, allowin
 ---
 
 ## 🧭 Department Slicer Feature
-![HR Analytics Dashboard Preview](./images/slicer.png)
+![HR Analytics Dashboard Preview](Images/slicer.png)
 A **Department Slicer** is placed at the top of the report. This dynamic filter allows users to explore data specific to:
 
 - Human Resources  
@@ -115,7 +115,7 @@ A **Department Slicer** is placed at the top of the report. This dynamic filter 
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard Preview](./images/dashboard.png)
+![HR Analytics Dashboard Preview](Images/dashboard.png)
 
 ---
 
